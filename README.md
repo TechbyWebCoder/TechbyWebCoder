@@ -75,10 +75,10 @@ const TechbyWebCoder = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TechbyWebCoder&show_icons=true&theme=transparent&title_color=00f5ff&text_color=c9d1d9&icon_color=ffd700&border_color=30363d&count_private=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TechbyWebCoder&theme=transparent&ring=00f5ff&fire=ffd700&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=8b949e&border=30363d" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechbyWebCoder&layout=compact&theme=transparent&title_color=00f5ff&text_color=c9d1d9&border_color=30363d&langs_count=6" />
+
 
 </div>
 
@@ -124,11 +124,20 @@ const TechbyWebCoder = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-TechbyWebCoder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechbyWebCoder)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TechbyWebCoder)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tech_bywebcoder?igsh=YXByM3kwbmZqOGkx)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TechbyWebCoder)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Techbywebcoder)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techbywebcoder@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-0A1AFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://techbywebcoder.netlify.app)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VakCEIz8F2pIt0qnzz2g)
+&nbsp;
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow%20Me-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/7l0h8Hlir)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techbywedcoder@gmail.com)
+
+</div>
+
 
 *💬 Always open to collaborations, feedback, and dev conversations — don't be a stranger!*
 
