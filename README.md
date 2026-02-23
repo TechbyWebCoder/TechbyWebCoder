@@ -36,7 +36,6 @@ const TechbyWebCoder = {
 };
 ```
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=TechbyWebCoder&show_icons=true&theme=transparent&title_color=00f5ff&text_color=c9d1d9&icon_color=ffd700&border_color=30363d&hide_border=false&count_private=true" />
 
 **🔥 Passionate** about web development and writing clean, meaningful code  
 **🌱 Exploring** Frontend, Backend, Python, Java & JavaScript  
