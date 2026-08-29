@@ -86,17 +86,6 @@ const TechbyWebCoder = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TechbyWebCoder&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=f0abfc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&background=0f0c29" />
-
-<br/><br/>
-
-</div>
-
----
 
 ## 💼 Projects & Repositories
 
