@@ -121,14 +121,6 @@ const TechbyWebCoder = {
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechbyWebCoder&bg_color=0f0c29&color=a78bfa&line=f0abfc&point=ffffff&area=true&area_color=302b63&hide_border=true&radius=8" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
